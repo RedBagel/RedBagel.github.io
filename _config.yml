@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://a.minifog.org.cn
+url: https://redbagel.github.io
 date_format: "ordinal"
-title: 雾水
-subtitle: "WeChat：小小小雾水"
-description: "雾水的个人博客"
-keywords: 雾水, Shui Wu, wushui
+title: 温盈
+subtitle: ""
+description: "温盈的个人博客"
+keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2024
+since: 2026
 # 源码仓库，请替换成自己的
-repository: JinRudy/JinRudy.github.io
+repository: RedBagel/RedBagel.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -57,13 +57,13 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Wu Shui
+author: Wen Ying
 organization: 
 organization_url: 
-github_username: JinRudy
-github_username_url: https://a.minifog.org.cn/JinRudy
-location: ShangHai, China
-email: WushuiOvO@qq.com
+github_username: RedBagel
+github_username_url: https://github.com/RedBagel
+location: ChenDu, China
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -142,7 +142,7 @@ beaudar:
     repo: JinRudy/github.io.config
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: JinRudy/github.io.config
+    repo: https://github.com/RedBagel/RedBagel.github.io
     repo-id: R_kgDOKNmYlQ
     category: Announcements
     category-id: DIC_kwDOKNmYlc4CY_T8
