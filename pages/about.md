@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-当qq空间发的
+当qq空间发的，暂无编程技能
 
 ## 联系
 
