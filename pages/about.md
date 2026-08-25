@@ -1,16 +1,14 @@
 ---
 layout: page
 title: 关于
-subtitle: 记录生活，记录你
-keywords: 关于,雾水
+subtitle: 
+keywords: 关于,温盈
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-天生我材必有用，千金散尽还复来。
-
-这里是 **雾水** —— 写代码、看电影，也记录一些半夜想通的小事。像雾、像雨、又像风，慢慢沉淀。
+当qq空间发的
 
 ## 联系
 
