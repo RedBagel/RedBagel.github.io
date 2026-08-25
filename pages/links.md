@@ -23,7 +23,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 {% else %}
-<p style="color:var(--text-soft)">还没有友链。想交换链接的朋友，欢迎在 GitHub 提 issue 申请。</p>
+<p style="color:var(--text-soft)">还没有友链。想交换链接的朋友，欢迎在 GitHub 上联系我</p>
 {% endif %}
 
 ## 申请友链
