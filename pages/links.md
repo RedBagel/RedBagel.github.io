@@ -28,4 +28,4 @@ permalink: /links/
 
 ## 申请友链
 
-联系我
+issues联系我
