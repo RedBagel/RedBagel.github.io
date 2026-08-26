@@ -12,6 +12,8 @@ permalink: /about/
 
 ## 联系
 
+tinotino@foxmail.com
+
 <ul>
 {% for website in site.data.social %}
 <li>{{ website.sitename }}：<a href="{{ website.url }}" target="_blank" rel="noopener">@{{ website.name }}</a></li>
